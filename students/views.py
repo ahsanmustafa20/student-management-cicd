@@ -6,4 +6,4 @@ from django.http import HttpResponse
 
 # Option A: Simple text response
 def homepage(request):
-    return HttpResponse("<h1>Welcome to Student Management System Zarak Khan </h1>")
+    return HttpResponse("<h1>Welcome to Student Management System Ahsan Mustafaaaaaaa </h1>")
